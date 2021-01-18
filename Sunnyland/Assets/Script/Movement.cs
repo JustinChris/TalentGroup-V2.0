@@ -70,7 +70,7 @@ public class Movement : MonoBehaviour
         }
         else
         {
-            rb.gravityScale = 2;
+            rb.gravityScale = 1.5f;
         }
 
         if (Input.GetButtonDown("Jump"))
