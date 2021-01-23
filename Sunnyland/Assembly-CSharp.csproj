@@ -89,6 +89,7 @@
     <Compile Include="Assets\Script\startCutscene.cs" />
     <Compile Include="Assets\dialogueScript\Dialogue.cs" />
     <Compile Include="Assets\dialogueScript\DialogueManager.cs" />
+    <Compile Include="Assets\levelLoaderScript.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
